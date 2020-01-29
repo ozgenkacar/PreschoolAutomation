@@ -1,0 +1,33 @@
+{
+  "admissionNo": "1234",
+  "batch": "12",
+  "birthDate": "1/01/1990",
+  "company": {
+    "address": {
+      "addressId":"",
+      "city": "haledon",
+      "state": "nj",
+      "street": "alps road",
+      "zipCode": "07512"
+    },
+    "companyId": "",
+    "companyName": "Cyberburger",
+    "startDate": "01/01/2020",
+    "title": "SDET"
+  },
+  "contact": {
+    "contactId": "",
+    "emailAddress": "om@gmail.com",
+    "phone": "3452345678",
+    "premanentAddress": "Virginia"
+  },
+  "firstName": "OMER",
+  "gender": "MALE",
+  "joinDate": "01/01/2020",
+  "lastName": "ASAF",
+  "major": "math",
+  "password": "12345",
+  "section": "<string>",
+  "studentId": "",
+  "subject": "<string>"
+}
